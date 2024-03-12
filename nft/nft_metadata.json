@@ -1,0 +1,37 @@
+{
+    "name": "NFT Name",
+    "symbol": "NFT Symbol: use small and uppercase words like ABC",
+    "description": "Use a sentence to describe this NFT",
+    "external_url": "Add dataset url in this field",
+    "seller_fee_basis_points": 0,
+    "image": "The url of NFT image",
+    "attributes": [
+        {
+            "trait_type": "Use a word",
+            "value": "Description: one NFT have one to five attributes taht depends on users"
+        },
+        {
+            "trait_type": "Use a word",
+            "value": "Description: one NFT have one to five attributes taht depends on users"
+        },
+        {
+            "trait_type": "Use a word",
+            "value": "reference: https://famousfoxes.com/metadata/7778.json"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "creator address",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "type": "image/png",
+                "url": "The url of NFT image"
+            }
+        ],
+        "category": "image"
+    }
+}
