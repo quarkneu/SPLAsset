@@ -20,12 +20,6 @@
         }
     ],
     "properties": {
-        "creators": [
-            {
-                "address": "creator address",
-                "share": 100
-            }
-        ],
         "files": [
             {
                 "type": "image/png",
